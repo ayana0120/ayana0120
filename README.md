@@ -1,9 +1,9 @@
 <p align = "left">
-  <img alt="Top Langs2" height="150pt" stc="https://github-readme-stats.vercel.app/api/top-langs/?username=ayana0120">
   <img alt="Anurag's GitHub stats" heitght="150pt" src="https://github-readme-stats.vercel.app/api?username=ayana0120">
+  <img alt="Top Langs2" height="150pt" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayana0120">
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ayana0120&theme=clomun=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ayana0120&theme=clomun=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![](https://raw.githubusercontent.com/ayana0120/ayana0120/main/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/ayana0120/ayana0120/main/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ayana0120/ayana0120/main/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
